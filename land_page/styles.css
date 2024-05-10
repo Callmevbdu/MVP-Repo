@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ff9900;
+    color: #009933;
 }
 
 /* Intro section styles */
@@ -119,7 +119,7 @@ nav a:hover {
 .btn {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background-color: #ff9900;
+    background-color: #009933;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
