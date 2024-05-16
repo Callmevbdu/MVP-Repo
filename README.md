@@ -3,7 +3,9 @@
 ## Introduction:
 “Ronda” is a Moroccan card game which has Spanish or Italian origins, The deck of cards consists of four Latin suits: cups, swords, sticks, denarii). There are cards numbered 1 to 7, and three other cards: the Jack (10), the Knight (11) and the King (12)). Note that 8 and 9 are “missing”; which makes it 40 card in total.
 The game is played with two, three or four players by constituting, in the case of 4 players, 2 teams which play together and whose players are seated opposite each other with tokens.
+
 [Deployed project page](https://callmevbdu.github.io/Ronda-moroccan_game/)
+
 [LinkedIn project blog article](https://www.linkedin.com/posts/abdellatif-hmiche-3227291b7_introduction-my-project-called-ronda-activity-7196247424141524992-YJyW)
 
 ## Installation:
@@ -12,6 +14,7 @@ The game is played with two, three or four players by constituting, in the case 
 > $ sudo apt-get install libsdl2-image-2.0-0-dev
 - Change directory into “Ronda”'s folder and run:
 > make
+
 > make install
 
 ### Uninstall:
