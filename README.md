@@ -1,12 +1,33 @@
 # “Ronda”: A Moroccan cards game.
 
+## Introduction:
+“Ronda” is a Moroccan card game which has Spanish or Italian origins, The deck of cards consists of four Latin suits: cups, swords, sticks, denarii). There are cards numbered 1 to 7, and three other cards: the Jack (10), the Knight (11) and the King (12)). Note that 8 and 9 are “missing”; which makes it 40 card in total.
+The game is played with two, three or four players by constituting, in the case of 4 players, 2 teams which play together and whose players are seated opposite each other with tokens.
+	Website: https://callmevbdu.github.io/Ronda-moroccan_game/
+ 	LinkedIn project blog article: https://www.linkedin.com/posts/abdellatif-hmiche-3227291b7_introduction-my-project-called-ronda-activity-7196247424141524992-YJyW
+	<a href="https://callmevbdu.github.io/Ronda-moroccan_game/">Deployed Project Page</a>
+	<a href="https://www.linkedin.com/posts/abdellatif-hmiche-3227291b7_introduction-my-project-called-ronda-activity-7196247424141524992-YJyW">LinkedIn project blog article</a>
+
+## Installation:
+### Install:
+- “Ronda” requires SDL, SDL_image and SDL_ttf. You can get them using this command:
+''' $ sudo apt-get install libsdl2-image-2.0-0-dev '''
+- Change directory into “Ronda”'s folder and run:
+'''
+make
+make install
+'''
+
+### Uninstall:
+- Run the command:
+''' make uninstall '''
+
 ## How to play:
 
 ### Objective:
 The goal of “Ronda” is to collect as many cards as possible to score points. A round is won by the first player or team that reaches more than 20 cards. The overall game is won when a team accumulates a total of 41 points.
 
 ### Dealing:
-The deck of cards consists of four kinds of the numbers (1, 2, 3, 4, 5, 6, 7, 10, 11, 12); which makes it 40 card in total.
 The dealer is determined sequentially.
 - In a two-player game:
 	The dealer distributes three cards to each player in a clockwise direction.
@@ -68,3 +89,13 @@ Similarly, the player who would normally say “Khamsa” should shout “Khamsa
 Players earn points after the game by counting their cards:
 - Two-player game: Gain points for cards won beyond 20 (each card counts as one point from the 21st card onward).
 - Team-based game: The team combines their cards won, and each card counts as one point from the 21st card onward.
+
+## Contributing
+We welcome contributions! Please contact me.
+
+## Related Projects:
+Comming soon.
+
+## Licence:
+- Supervised by: ALX Software engineering & Holberton School.
+- Creator: Abdellatif Hmiche
