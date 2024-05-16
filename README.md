@@ -19,9 +19,12 @@ The game is played with two, three or four players sequentially, in the case of 
 > $ sudo apt-get install libsdl2-image-2.0-0-dev
 
 - Change directory into “Ronda”'s folder and run:
-> $ make
+> $ sudo make
 
-> $ make install
+> $ sudo make install
+
+- Launch the game using:
+> ./ronda 
 
 ### Uninstall:
 - Run the command:
