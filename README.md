@@ -13,13 +13,13 @@ The game is played with two, three or four players by constituting, in the case 
 - “Ronda” requires SDL, SDL_image and SDL_ttf. You can get them using this command:
 > $ sudo apt-get install libsdl2-image-2.0-0-dev
 - Change directory into “Ronda”'s folder and run:
-> make
+> $ make
 
-> make install
+> $ make install
 
 ### Uninstall:
 - Run the command:
-> make uninstall
+> $ make uninstall
 
 ## How to play:
 
