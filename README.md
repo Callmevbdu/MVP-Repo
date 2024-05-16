@@ -16,7 +16,7 @@ The game is played with two, three or four players sequentially, in the case of 
 
 > $ sudo apt-get install libsdl2-ttf-dev
 
-> $ sudo apt-get install libsdl2-image-2.0-0-dev
+> $ sudo apt-get install libsdl2-image-2.0.0
 
 - Change directory into “Ronda”'s folder and run:
 > $ sudo make
