@@ -1,7 +1,7 @@
 # “Ronda”: A Moroccan cards game.
 
 ## Introduction:
-“Ronda” is a Moroccan cards game which has Spanish-Italian origins. The deck of cards consists of 40 cards; four Latin suits (cups, swords, sticks, denarii). There are cards numbered 1 to 7, and three other cards: the Jack (10), the Knight (11) and the King (12)). Note that 8 and 9 are “missing”.
+“Ronda” is a Moroccan cards game which has Spanish-Italian origins. The deck of cards consists of 40 cards; four Latin suits (cups, swords, sticks, denarii). There are cards numbered 1 to 7, and three other cards: the Jack (10), the Knight (11) and the King (12). Note that 8 and 9 are “missing”.
 
 The game is played with two, three or four players sequentially, in the case of 4 players, the players seated in opposite play as a team.
 
